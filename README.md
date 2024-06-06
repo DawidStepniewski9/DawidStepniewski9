@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Hi, I am Dawid, a student of IT and aspiring C# expert.</h3>
 
-<!--
-**DawidStepniewski9/DawidStepniewski9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidstepniewski9&label=Profile%20views&color=0e75b6&style=flat" alt="dawidstepniewski9" /> </p>
 
-Here are some ideas to get you started:
+- 🔭I'm looking for an opportunity to develop my programming abilities in an interesting project **.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **dawidstepniewski999@gmail.com**
+
+- 🌱 I’m currently learning ASP .Net Web API **.**
+
+- 🤺 My LinkedIn profile: **https://www.linkedin.com/in/dawid-st%C4%99pniewski-22aaa41a2/**
+
+- ⚡ Fun fact: **I know how to sail a yacht.**
