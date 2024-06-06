@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Hi, I am Dawid, a student of IT and aspiring C# expert.</h3>
+<h3 align="center">Hi, I'm Dawid, a junior C# developer and an aspiring expert in this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawidstepniewski9&label=Profile%20views&color=0e75b6&style=flat" alt="dawidstepniewski9" /> </p>
 
